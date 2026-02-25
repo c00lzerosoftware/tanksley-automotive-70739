@@ -60,7 +60,7 @@ export default function BrakesPage() {
             <p className="text-lg mb-6">Brake problems only get worse. Schedule your brake inspection today.</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/schedule" className="btn-primary">Schedule Brake Inspection</Link>
-              <a href="tel:+12255551234" className="bg-white text-primary-blue px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors">Call (225) 555-1234</a>
+              <a href="tel:+12252613866" className="bg-white text-primary-blue px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors">Call (225) 261-3866</a>
             </div>
           </div>
         </div>

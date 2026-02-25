@@ -60,7 +60,7 @@ export default function SuspensionPage() {
             <p className="text-lg mb-6">Get your alignment checked and suspension inspected today.</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/schedule" className="btn-primary">Schedule Alignment Service</Link>
-              <a href="tel:+12255551234" className="bg-white text-primary-blue px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors">Call (225) 555-1234</a>
+              <a href="tel:+12252613866" className="bg-white text-primary-blue px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors">Call (225) 261-3866</a>
             </div>
           </div>
         </div>

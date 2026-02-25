@@ -17,8 +17,8 @@ export default function Home() {
               <Link href="/schedule" className="btn-primary">
                 Schedule Appointment
               </Link>
-              <a href="tel:+12255551234" className="bg-white text-primary-blue px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors shadow-lg">
-                Call Now: (225) 555-1234
+              <a href="tel:+12252613866" className="bg-white text-primary-blue px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors shadow-lg">
+                Call Now: (225) 261-3866
               </a>
             </div>
             <div className="flex flex-wrap gap-4 justify-center">
@@ -286,8 +286,8 @@ export default function Home() {
             <Link href="/schedule" className="btn-primary">
               Schedule Appointment
             </Link>
-            <a href="tel:+12255551234" className="bg-white text-primary-blue px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors">
-              Call (225) 555-1234
+            <a href="tel:+12252613866" className="bg-white text-primary-blue px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors">
+              Call (225) 261-3866
             </a>
           </div>
         </div>
@@ -311,7 +311,7 @@ export default function Home() {
                   <div>
                     <p className="font-semibold text-lg">Address</p>
                     <p className="text-gray-600">
-                      Magnolia Bridge Road<br />
+                      18255 Magnolia Bridge Road<br />
                       Greenwell Springs, LA 70739
                     </p>
                   </div>
@@ -334,8 +334,8 @@ export default function Home() {
                   </svg>
                   <div>
                     <p className="font-semibold text-lg">Phone</p>
-                    <a href="tel:+12255551234" className="text-primary-blue hover:text-primary-blue-light font-semibold">
-                      (225) 555-1234
+                    <a href="tel:+12252613866" className="text-primary-blue hover:text-primary-blue-light font-semibold">
+                      (225) 261-3866
                     </a>
                   </div>
                 </div>

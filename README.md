@@ -62,7 +62,7 @@ npm start
 
 Before going live, update these items:
 
-1. **Phone Number**: Replace `+12255551234` with actual phone throughout site
+1. **Phone Number**: Replace `+12252613866` with actual phone throughout site
 2. **Address**: Update full street address in Contact and Footer
 3. **Google Maps**: Update iframe `src` with correct location coordinates
 4. **Email**: Configure contact form to send to actual email (requires backend API)

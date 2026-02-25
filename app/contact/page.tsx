@@ -46,8 +46,8 @@ export default function ContactPage() {
                   </svg>
                   <div>
                     <h3 className="font-bold text-lg mb-1">Phone</h3>
-                    <a href="tel:+12255551234" className="text-primary-blue hover:text-primary-blue-light text-lg font-semibold">
-                      (225) 555-1234
+                    <a href="tel:+12252613866" className="text-primary-blue hover:text-primary-blue-light text-lg font-semibold">
+                      (225) 261-3866
                     </a>
                   </div>
                 </div>
@@ -60,7 +60,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-bold text-lg mb-1">Address</h3>
                     <p className="text-gray-700">
-                      Magnolia Bridge Road<br />
+                      18255 Magnolia Bridge Road<br />
                       Greenwell Springs, LA 70739
                     </p>
                   </div>

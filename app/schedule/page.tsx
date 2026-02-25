@@ -35,7 +35,7 @@ export default function SchedulePage() {
               Thank you for scheduling with Tanksley Automotive. We'll contact you within 2 hours to confirm your appointment.
             </p>
             <p className="text-gray-600 mb-8">
-              If you need immediate assistance, please call us at <a href="tel:+12255551234" className="text-primary-blue font-semibold">(225) 555-1234</a>
+              If you need immediate assistance, please call us at <a href="tel:+12252613866" className="text-primary-blue font-semibold">(225) 261-3866</a>
             </p>
             <Link href="/" className="btn-primary inline-block">Return to Homepage</Link>
           </div>
@@ -185,8 +185,8 @@ export default function SchedulePage() {
           <div className="mt-8 text-center bg-gray-50 rounded-lg p-6">
             <h3 className="text-lg font-bold text-primary-blue mb-2">Prefer to Call?</h3>
             <p className="text-gray-700 mb-4">Talk to us directly for immediate scheduling or questions.</p>
-            <a href="tel:+12255551234" className="text-2xl font-bold text-primary-blue hover:text-primary-blue-light">
-              (225) 555-1234
+            <a href="tel:+12252613866" className="text-2xl font-bold text-primary-blue hover:text-primary-blue-light">
+              (225) 261-3866
             </a>
             <p className="text-sm text-gray-600 mt-2">Monday - Friday: 8:00 AM - 5:00 PM</p>
           </div>
